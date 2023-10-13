@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">A passionate Computer Science student at HIT College</h3>
+<h3 align="center">a passionate Computer Science student at HIT College. My academic focus has been on honing my programming skills, especially in C#, C, and C++. I'm deeply interested in graphic design and love exploring creative hobbies. One of my proudest achievements so far is developing a Tetris game project, showcasing my proficiency in Object-Oriented Programming (OOP). While I may not have professional experience yet, I bring a wealth of creativity and enthusiasm to every project I undertake. Let's innovate and create together! 🚀</h3>
 
 - 🔭 I’m currently working on **ecommerce project**
 
