@@ -5,7 +5,7 @@
 
 🎓 I'm a **Computer Science graduate** from HIT College, with a strong passion for building real-world tech solutions.
 💼 Currently working as a **NOC operator** at SDS, where I monitor systems, handle incidents, and ensure uptime across critical services.  
-🧠 I love learning and evolving — whether it's scripting automation tools in **Python**, developing full-stack features using **JavaScript**, or creating modern mobile apps in **Kotlin**.  
+🧠 I love learning and evolving whether it's scripting automation tools in **Python**, developing full-stack features using **JavaScript**, or creating modern mobile apps in **Kotlin**.  
 🌐 I’ve built a complete **e-commerce website** using JavaScript, HTML, and CSS, showcasing my front-end skills.  
 📱 I also developed several **Android apps in Kotlin**, focusing on clean architecture and user experience.  
 🧪 I'm now focusing on **QA testing and automation**, combining my technical background with my curiosity for problem-solving.  
